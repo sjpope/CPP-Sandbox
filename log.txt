@@ -1,0 +1,6 @@
+.cpp -o program                                                                                            
+
+E:\vscodeIDE\msys64\mingw64\bin\g++.exe program.cpp -o program
+                                                                                      
+
+E:/vscodeIDE/msys64/mingw64/bin/g++.exe program.cpp -o program
